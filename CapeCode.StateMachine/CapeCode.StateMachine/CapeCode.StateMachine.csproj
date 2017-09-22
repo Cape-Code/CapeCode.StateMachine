@@ -34,7 +34,7 @@
       <HintPath>..\packages\CapeCode.DependencyInjection.1.0.1\lib\net461\CapeCode.DependencyInjection.dll</HintPath>
     </Reference>
     <Reference Include="CapeCode.Logging, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CapeCode.Logging.1.0.0\lib\net461\CapeCode.Logging.dll</HintPath>
+      <HintPath>..\packages\CapeCode.Logging.1.1.0\lib\net461\CapeCode.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.3.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll</HintPath>
