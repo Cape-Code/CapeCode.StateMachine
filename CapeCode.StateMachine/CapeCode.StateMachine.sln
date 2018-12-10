@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapeCode.StateMachine", "CapeCode.StateMachine\CapeCode.StateMachine.csproj", "{7624B31A-E9AE-452E-BBA2-11F36A9FBC4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapeCode.StateMachine.Interfaces", "CapeCode.StateMachine.Interfaces\CapeCode.StateMachine.Interfaces.csproj", "{72B9560E-8744-416E-8D40-E53A16BF08CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7624B31A-E9AE-452E-BBA2-11F36A9FBC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7624B31A-E9AE-452E-BBA2-11F36A9FBC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7624B31A-E9AE-452E-BBA2-11F36A9FBC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B9560E-8744-416E-8D40-E53A16BF08CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B9560E-8744-416E-8D40-E53A16BF08CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B9560E-8744-416E-8D40-E53A16BF08CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B9560E-8744-416E-8D40-E53A16BF08CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
