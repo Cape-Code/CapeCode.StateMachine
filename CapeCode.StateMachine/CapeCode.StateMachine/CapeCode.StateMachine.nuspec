@@ -10,8 +10,8 @@
     <description>Description</description>
     <copyright>Copyright © Cape Code Gmbh &amp; Co. KG 2017</copyright>
     <dependencies>
-      <dependency id="CapeCode.DependencyInjection.Interfaces" version="1.1.0-unstable0013" />
-      <dependency id="CapeCode.Logging.Interfaces" version="1.2.0-unstable0001" />
+      <dependency id="CapeCode.DependencyInjection.Interfaces" version="1.2.0" />
+      <dependency id="CapeCode.Logging.Interfaces" version="1.2.0" />
       <dependency id="CapeCode.StateMachine.Interfaces" version="$Version$" />
     </dependencies>    
   </metadata>
