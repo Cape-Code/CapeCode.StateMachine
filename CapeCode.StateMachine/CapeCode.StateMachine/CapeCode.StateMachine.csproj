@@ -31,10 +31,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CapeCode.DependencyInjection.Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CapeCode.DependencyInjection.Interfaces.1.2.4\lib\netstandard2.0\CapeCode.DependencyInjection.Interfaces.dll</HintPath>
+      <HintPath>..\packages\CapeCode.DependencyInjection.Interfaces.1.2.5\lib\netstandard2.0\CapeCode.DependencyInjection.Interfaces.dll</HintPath>
     </Reference>
     <Reference Include="CapeCode.Logging.Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\CapeCode.Logging.Interfaces.1.2.0\lib\netstandard2.0\CapeCode.Logging.Interfaces.dll</HintPath>
+      <HintPath>..\packages\CapeCode.Logging.Interfaces.1.2.5\lib\netstandard2.0\CapeCode.Logging.Interfaces.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
